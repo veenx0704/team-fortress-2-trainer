@@ -14,10 +14,60 @@ TF2 hack, free hack, free cheat, aimbot, wallhack, crits. MoggyDay trainer +54 f
 
 ## Опции
 
-- TF2 hack
-- aimbot
-- wallhack
-- crits. MoggyDay trainer +54 for offline maps — not matchmaking.
+- God Mode (Offline)
+- Infinite Health
+- Infinite Overheal
+- Infinite Ammo
+- No Reload
+- Always Crits
+- Instant Crits
+- Infinite Metal (Engineer)
+- Infinite Cloak (Spy)
+- Infinite Uber (Medic)
+- Instant Uber Charge
+- Infinite Stickybombs
+- Infinite Flame (Pyro)
+- Infinite Shield Charge (Demo)
+- Instant Sentry Build
+- Instant Sentry Upgrade
+- Instant Capture
+- Unlock All Weapons
+- Unlock All Hats (Local)
+- Unlock All Taunts (Local)
+- Unlock All Classes Max
+- Super Damage
+- One Hit Kill
+- Freeze Bots
+- Easy Bots
+- Instant Respawn
+- Super Speed
+- Infinite Rocket Jump
+- No Fall Damage
+- No Clip
+- Unlock All Maps
+- Freeze Time
+- Set Game Speed
+- Slow Motion
+- Save Position
+- Load Position
+- Give Australium (Local)
+- Infinite Sandvich / Lunchbox
+- Infinite Jarate / Mad Milk
+- No Afterburn
+- Infinite Headshots (Sniper)
+- Infinite Scout Double Jump
+- Infinite Heavy Minigun
+- Instant Teleporter
+- No Damage To Buildings
+- Unlock All Unusuals (Local)
+- Practice Bot Match
+- Infinite Grenades (Demo)
+- Max Crit Boost
+- Unlock All Contracts (Local)
+- Instant Intel Capture
+- No Slow From Damage
+- Infinite Disguise Kit
+- Give Any Weapon
 
 ## Куда жать
 
