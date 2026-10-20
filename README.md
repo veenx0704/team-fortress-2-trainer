@@ -1,11 +1,23 @@
-# TF2 Hack 2026 | Aimbot + Wallhack + Crits | Free Download
+# Team Fortress 2 Trainer (+54) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/team-fortress-2-trainer) · [Скачать RU](https://moggydaytrainer.com/f/team-fortress-2-trainer) · [Team Fortress 2 hub](https://moggydaytrainer.com/g/team-fortress-2) · [Team Fortress 2 news](https://moggydaytrainer.com/g/team-fortress-2/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/team-fortress-2-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/team-fortress-2-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/team-fortress-2-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/team-fortress-2"><img alt="Game hub" src="https://img.shields.io/badge/Team%20Fortress%202%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-Queries this mirror supports in plain language: Team Fortress 2 trainer, Team Fortress 2 hack 2026, Team Fortress 2 free cheat, Team Fortress 2 aimbot (offline / custom only).
+MoggyDay hosts the official **Team Fortress 2** trainer for Windows (current, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
 
-The live **Team Fortress 2** pack on MoggyDay is the current Windows trainer with **+many** toggles (TF2 hack, aimbot, wallhack, crits. MoggyDay trainer +54 for offline maps — not matchmaking.). People search `Team Fortress 2 trainer`, `Team Fortress 2 hack 2026` and `Team Fortress 2 free cheat` and should land on the file page, not a random Discord zip. This GitHub repo is a documented mirror: screenshots, option notes and the official links. The download button is only on [https://moggydaytrainer.com/en/f/team-fortress-2-trainer](https://moggydaytrainer.com/en/f/team-fortress-2-trainer). Offline / custom / workshop — not ranked matchmaking.
+## About Team Fortress 2
+
+Team Fortress 2 is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 440).
+
+## About the MoggyDay trainer
+
+The live Team Fortress 2 pack on MoggyDay is the current Windows trainer with +54 toggles (God Mode (Offline), Infinite Health, Infinite Overheal, Infinite Ammo, No Reload). People search `Team Fortress 2 trainer`, `Team Fortress 2 hack 2026` and `Team Fortress 2 free cheat` and should land on the file page, not a random Discord zip. This GitHub repo is a documented mirror: screenshots, option notes and the official links. The download button is only on [https://moggydaytrainer.com/en/f/team-fortress-2-trainer](https://moggydaytrainer.com/en/f/team-fortress-2-trainer). Offline / custom / workshop — not ranked matchmaking.
 
 ## Screenshots
 
@@ -21,89 +33,139 @@ Shots from the live [Team Fortress 2 trainer page](https://moggydaytrainer.com/e
 
 [![Team Fortress 2 options 3](https://moggydaytrainer.com/media/shots/hub-team-fortress-2/fn-3.png)](https://moggydaytrainer.com/en/f/team-fortress-2-trainer)
 
-## Who this is for
+## Trainer features (+54)
 
-This Team Fortress 2 page is for people practicing in offline maps, custom lobbies, the firing range or a workshop mode. It is **not** a ranked/undetected product page. If you need the trainer as a single-player style tool for your own session, MoggyDay is the source. If you want to ruin official matchmaking, this listing will not help you — and we do not host that.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/team-fortress-2-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | God Mode (Offline) | Practice | Num 1 | Toggle |
+| 2 | Infinite Health | Player | Num 2 | Toggle |
+| 3 | Infinite Overheal | Player | Num 3 | Toggle |
+| 4 | Infinite Ammo | Combat | Num 4 | Toggle |
+| 5 | No Reload | Combat | Num 5 | Toggle |
+| 6 | Always Crits | Combat | Num 6 | Toggle |
+| 7 | Instant Crits | Combat | Num 7 | Toggle |
+| 8 | Infinite Metal (Engineer) | Class | Num 8 | Toggle |
+| 9 | Infinite Cloak (Spy) | Class | Num 9 | Toggle |
+| 10 | Infinite Uber (Medic) | Class | Num 0 | Toggle |
+| 11 | Instant Uber Charge | Class | Num . | Toggle |
+| 12 | Infinite Stickybombs | Class | Num * | Toggle |
+| 13 | Infinite Flame (Pyro) | Class | Num + | Toggle |
+| 14 | Infinite Shield Charge (Demo) | Class | Num - | Toggle |
+| 15 | Instant Sentry Build | Class | Ctrl+Num 1 | Toggle |
+| 16 | Instant Sentry Upgrade | Class | Ctrl+Num 2 | Toggle |
+| 17 | Instant Capture | Battle | Ctrl+Num 3 | Toggle |
+| 18 | Unlock All Weapons | Unlocks | Ctrl+Num 4 | Toggle |
+| 19 | Unlock All Hats (Local) | Unlocks | Ctrl+Num 5 | Toggle |
+| 20 | Unlock All Taunts (Local) | Unlocks | Ctrl+Num 6 | Toggle |
+| 21 | Unlock All Classes Max | Unlocks | Ctrl+Num 7 | Toggle |
+| 22 | Super Damage | Combat | Ctrl+Num 8 | Toggle |
+| 23 | One Hit Kill | Combat | Ctrl+Num 9 | Toggle |
+| 24 | Freeze Bots | Practice | Ctrl+Num 0 | Toggle |
+| 25 | Easy Bots | Practice | Ctrl+Num . | Toggle |
+| 26 | Instant Respawn | Practice | Ctrl+Num * | Toggle |
+| 27 | Super Speed | Movement | Ctrl+Num + | Toggle |
+| 28 | Infinite Rocket Jump | Movement | Ctrl+Num - | Toggle |
+| 29 | No Fall Damage | Movement | Alt+Num 1 | Toggle |
+| 30 | No Clip | Movement | Alt+Num 2 | Toggle |
+| 31 | Unlock All Maps | Unlocks | Alt+Num 3 | Toggle |
+| 32 | Freeze Time | Time | Alt+Num 4 | Toggle |
+| 33 | Set Game Speed | Time | Alt+Num 5 | Speed |
+| 34 | Slow Motion | Time | Alt+Num 6 | Toggle |
+| 35 | Save Position | Misc | Alt+Num 7 | Toggle |
+| 36 | Load Position | Misc | Alt+Num 8 | Toggle |
+| 37 | Give Australium (Local) | Unlocks | Alt+Num 9 | Toggle |
+| 38 | Infinite Sandvich / Lunchbox | Items | Alt+Num 0 | Toggle |
+| 39 | Infinite Jarate / Mad Milk | Items | Alt+Num . | Toggle |
+| 40 | No Afterburn | Combat | Alt+Num * | Toggle |
+| 41 | Infinite Headshots (Sniper) | Class | Alt+Num + | Toggle |
+| 42 | Infinite Scout Double Jump | Class | Alt+Num - | Toggle |
+| 43 | Infinite Heavy Minigun | Class | Shift+F1 | Toggle |
+| 44 | Instant Teleporter | Class | Shift+F2 | Toggle |
+| 45 | No Damage To Buildings | Class | Shift+F3 | Toggle |
+| 46 | Unlock All Unusuals (Local) | Unlocks | Shift+F4 | Toggle |
+| 47 | Practice Bot Match | Practice | Shift+F5 | Toggle |
+| 48 | Infinite Grenades (Demo) | Class | Shift+F6 | Toggle |
+| 49 | Max Crit Boost | Combat | Shift+F7 | Toggle |
+| 50 | Unlock All Contracts (Local) | Unlocks | Shift+F8 | Toggle |
+| 51 | Instant Intel Capture | Battle | Shift+F9 | Toggle |
+| 52 | No Slow From Damage | Player | Shift+F10 | Toggle |
+| 53 | Infinite Disguise Kit | Class | Shift+F11 | Toggle |
+| 54 | Give Any Weapon | Weapons | Shift+F12 | Toggle |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/team-fortress-2-trainer](https://moggydaytrainer.com/en/f/team-fortress-2-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/team-fortress-2-trainer](https://moggydaytrainer.com/f/team-fortress-2-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/team-fortress-2](https://moggydaytrainer.com/g/team-fortress-2) |
-| Trainers tab | [https://moggydaytrainer.com/g/team-fortress-2/trainers](https://moggydaytrainer.com/g/team-fortress-2/trainers) |
-| News | [https://moggydaytrainer.com/g/team-fortress-2/news](https://moggydaytrainer.com/g/team-fortress-2/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
+### Tips
 
-## Team Fortress 2 trainer current: +many options
+- **God Mode (Offline)** — Usually the first toggle people enable on a Team Fortress 2 trainer.
+- **Infinite Health** — Check this after every Team Fortress 2 patch — values often shift.
+- **Infinite Overheal** — Leave it off if you only want a mild resource boost.
+- **Infinite Ammo** — Pairs with the other combat toggles on the Team Fortress 2 page.
+- **No Reload** — Use it to skip a grind, then turn it back off.
+- **Always Crits** — Read the live hotkey next to this name on MoggyDay.
+- **Instant Crits** — Game-specific: the Team Fortress 2 listing explains the exact effect.
+- **Infinite Metal (Engineer)** — If two options overlap, enable one and test in a safe save.
+- **Infinite Cloak (Spy)** — Keep a screenshot of your preferred set from the site page.
+- **Infinite Uber (Medic)** — Not every option is safe in every mission — test first.
+- **Instant Uber Charge** — The RU page uses the same toggle order.
+- **Infinite Stickybombs** — Ask in comments on the trainer page if a name is unclear.
+- **Infinite Flame (Pyro)** — Usually the first toggle people enable on a Team Fortress 2 trainer.
+- **Infinite Shield Charge (Demo)** — Check this after every Team Fortress 2 patch — values often shift.
+- **Instant Sentry Build** — Leave it off if you only want a mild resource boost.
+- **Instant Sentry Upgrade** — Pairs with the other combat toggles on the Team Fortress 2 page.
+- **Instant Capture** — Use it to skip a grind, then turn it back off.
+- **Unlock All Weapons** — Read the live hotkey next to this name on MoggyDay.
+- **Unlock All Hats (Local)** — Game-specific: the Team Fortress 2 listing explains the exact effect.
+- **Unlock All Taunts (Local)** — If two options overlap, enable one and test in a safe save.
+- **Unlock All Classes Max** — Keep a screenshot of your preferred set from the site page.
+- **Super Damage** — Not every option is safe in every mission — test first.
+- **One Hit Kill** — The RU page uses the same toggle order.
+- **Freeze Bots** — Ask in comments on the trainer page if a name is unclear.
+- **Easy Bots** — Usually the first toggle people enable on a Team Fortress 2 trainer.
+- **Instant Respawn** — Check this after every Team Fortress 2 patch — values often shift.
+- **Super Speed** — Leave it off if you only want a mild resource boost.
+- **Infinite Rocket Jump** — Pairs with the other combat toggles on the Team Fortress 2 page.
+- **No Fall Damage** — Use it to skip a grind, then turn it back off.
+- **No Clip** — Read the live hotkey next to this name on MoggyDay.
+- **Unlock All Maps** — Game-specific: the Team Fortress 2 listing explains the exact effect.
+- **Freeze Time** — If two options overlap, enable one and test in a safe save.
+- **Set Game Speed** — Keep a screenshot of your preferred set from the site page.
+- **Slow Motion** — Not every option is safe in every mission — test first.
+- **Save Position** — The RU page uses the same toggle order.
+- **Load Position** — Ask in comments on the trainer page if a name is unclear.
+- **Give Australium (Local)** — Usually the first toggle people enable on a Team Fortress 2 trainer.
+- **Infinite Sandvich / Lunchbox** — Check this after every Team Fortress 2 patch — values often shift.
+- **Infinite Jarate / Mad Milk** — Leave it off if you only want a mild resource boost.
+- **No Afterburn** — Pairs with the other combat toggles on the Team Fortress 2 page.
+- **Infinite Headshots (Sniper)** — Use it to skip a grind, then turn it back off.
+- **Infinite Scout Double Jump** — Read the live hotkey next to this name on MoggyDay.
+- **Infinite Heavy Minigun** — Game-specific: the Team Fortress 2 listing explains the exact effect.
+- **Instant Teleporter** — If two options overlap, enable one and test in a safe save.
+- **No Damage To Buildings** — Keep a screenshot of your preferred set from the site page.
+- **Unlock All Unusuals (Local)** — Not every option is safe in every mission — test first.
+- **Practice Bot Match** — The RU page uses the same toggle order.
+- **Infinite Grenades (Demo)** — Ask in comments on the trainer page if a name is unclear.
+- **Max Crit Boost** — Usually the first toggle people enable on a Team Fortress 2 trainer.
+- **Unlock All Contracts (Local)** — Check this after every Team Fortress 2 patch — values often shift.
+- **Instant Intel Capture** — Leave it off if you only want a mild resource boost.
+- **No Slow From Damage** — Pairs with the other combat toggles on the Team Fortress 2 page.
+- **Infinite Disguise Kit** — Use it to skip a grind, then turn it back off.
+- **Give Any Weapon** — Read the live hotkey next to this name on MoggyDay.
 
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
+## Download
 
-| # | Option |
-|---|---|
-| 1 | TF2 hack |
-| 2 | aimbot |
-| 3 | wallhack |
-| 4 | crits. MoggyDay trainer +54 for offline maps — not matchmaking. |
+1. Open **[TF2 Hack 2026 | Aimbot + Wallhack + Crits | Free Download](https://moggydaytrainer.com/en/f/team-fortress-2-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/team-fortress-2-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/team-fortress-2-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Team Fortress 2 update, reload the same URL — the slug `/f/team-fortress-2-trainer` never moves.
 
-### What those toggles are for
+## Install (Windows)
 
-- **TF2 hack** — Usually the first toggle people enable on a Team Fortress 2 trainer.
-- **aimbot** — Check this after every Team Fortress 2 patch — values often shift.
-- **wallhack** — Leave it off if you only want a mild resource boost.
-- **crits. MoggyDay trainer +54 for offline maps — not matchmaking.** — Pairs with the other combat toggles on the Team Fortress 2 page.
+1. Close Team Fortress 2 before trying a new build.
+2. Run only files from MoggyDay for `team-fortress-2-trainer`.
+3. Enable a few toggles first, not the entire +54 list.
+4. Keep a backup save before resource or progression edits.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/team-fortress-2-trainer). GitHub stays a summary.
-
-## How to download
-
-1. Open **[TF2 Hack 2026 | Aimbot + Wallhack + Crits | Free Download](https://moggydaytrainer.com/en/f/team-fortress-2-trainer)** or **[TF2 Hack 2026 | Aimbot + Wallhack + Crits | скачать](https://moggydaytrainer.com/f/team-fortress-2-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a Team Fortress 2 patch, reload the same URL. We do not publish binaries as GitHub Releases.
-
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `team-fortress-2-trainer.exe`.
-
-## What the screenshots show
-
-The first image is the Team Fortress 2 cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/team-fortress-2-trainer](https://moggydaytrainer.com/en/f/team-fortress-2-trainer).
-
-## Install notes (Windows)
-
-1. Close Team Fortress 2 before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `team-fortress-2-trainer`.
-3. Start the trainer, then start Team Fortress 2 (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +many list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the current heading is older than the Team Fortress 2 build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/team-fortress-2-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a Team Fortress 2 update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**TF2 Hack 2026 | Aimbot + Wallhack + Crits | скачать**
-
-TF2 hack, free hack, free cheat, aimbot, wallhack, crits. MoggyDay trainer +54 for offline maps — not matchmaking.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/team-fortress-2-trainer
-- Хаб Team Fortress 2: https://moggydaytrainer.com/g/team-fortress-2
-- Новости: https://moggydaytrainer.com/g/team-fortress-2/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -122,19 +184,23 @@ Comment on the trainer page or write in [Team Fortress 2 news](https://moggydayt
 **Will this GitHub page stay up if the file updates?**
 Yes. The slug `/f/team-fortress-2-trainer` is stable. We refresh this README when the site heading or shots change.
 
-## Search notes
 
-`tf2 hack`, `tf2 free hack`, `tf2 free cheat`, `tf2 cheat`, `tf2 cheats`, `tf2 aimbot`, `tf2 free aimbot`, `tf2 wallhack`, `tf2 free wallhack`, `tf2 esp`, `tf2 free esp`, `tf2 no recoil`, `tf2 undetected`, `tf2 cheat download`, `tf2 hack download`, `tf2 trainer`
+## Search terms (English)
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+`tf2 cheat`, `tf2 hack`, `tf2 aimbot`, `tf2 wallhack`, `tf2 trainer`, `tf2 crits`, `tf2 esp`, `team fortress 2 cheat`, `tf2 cheats`, `tf2 free hack`, `tf2 free cheat`, `tf2 free aimbot`, `tf2 free wallhack`, `tf2 free esp`
+
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/team-fortress-2-trainer](https://moggydaytrainer.com/f/team-fortress-2-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/team-fortress-2-trainer](https://moggydaytrainer.com/zh/f/team-fortress-2-trainer)
 
 ## Other MoggyDay trainers
 
-- ![ARC Raiders cover](https://moggydaytrainer.com/media/covers/arc-raiders-5dac1b474e.jpg) [ARC Raiders Hack 2026 | Aimbot + ESP | Free Download](https://moggydaytrainer.com/en/f/arc-raiders-trainer) · [RU](https://moggydaytrainer.com/f/arc-raiders-trainer)
-- ![Delta Force cover](https://moggydaytrainer.com/media/covers/delta-force-744b3105dd.jpg) [Delta Force Hack 2026 | Aimbot + ESP | Free Download](https://moggydaytrainer.com/en/f/delta-force-trainer) · [RU](https://moggydaytrainer.com/f/delta-force-trainer)
-- ![Geometry Dash cover](https://moggydaytrainer.com/media/covers/geometry-dash-a1a9bc2182.jpg) [Geometry Dash trainer +54: noclip, icons, coins, orbs [v1.0.0]](https://moggydaytrainer.com/en/f/geometry-dash-trainer) · [RU](https://moggydaytrainer.com/f/geometry-dash-trainer)
-- ![Forza Horizon 6 cover](https://moggydaytrainer.com/media/covers/forza-horizon-6-moggyday-hUtDjSIg.jpg) [Forza Horizon 6 "Trainer +12: Credits, Boost, Free Cars, No Damage" [v2.2.0]](https://moggydaytrainer.com/en/f/forza-horizon-6-trainer) · [RU](https://moggydaytrainer.com/f/forza-horizon-6-trainer)
+- ![WARDOGS cover](https://moggydaytrainer.com/media/covers/wardogs-7ec494409e.jpg) [WARDOGS trainer +42: god mode, cash, weapons, ammo [v1.0.0]](https://moggydaytrainer.com/en/f/wardogs-trainer) · [RU](https://moggydaytrainer.com/f/wardogs-trainer)
+- ![Planet Zoo 2 cover](https://moggydaytrainer.com/media/covers/planet-zoo-2-cf3f519375.jpg) [Planet Zoo 2 trainer +54: money, species, welfare, research [v1.0.0]](https://moggydaytrainer.com/en/f/planet-zoo-2-trainer) · [RU](https://moggydaytrainer.com/f/planet-zoo-2-trainer)
+- ![Apex Legends cover](https://moggydaytrainer.com/media/covers/apex-legends-ebad43c353.jpg) [Apex Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/apex-legends-trainer) · [RU](https://moggydaytrainer.com/f/apex-legends-trainer)
+- ![Dead by Daylight cover](https://moggydaytrainer.com/media/covers/dead-by-daylight-ee7adc3b93.jpg) [DBD Hack 2026 | ESP + Aimbot | Free Download](https://moggydaytrainer.com/en/f/dead-by-daylight-trainer) · [RU](https://moggydaytrainer.com/f/dead-by-daylight-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `Team Fortress 2 trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/team-fortress-2-trainer](https://moggydaytrainer.com/en/f/team-fortress-2-trainer). Screenshots hotlink MoggyDay `/media/` assets.
